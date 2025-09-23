@@ -1,0 +1,30 @@
+leftnav:
+- identifier: e9579d14-bcfc-a575-acdf-a59c55753ef7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cab2247b-2819-58e1-d49c-c13a9ec4d062
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 889e19d4-1934-1e45-05fb-4053a231c40b
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: a46d7b1f-070d-b6d2-7ae0-ebb337da58bf
+  name: Bibliography
+  pageRef: /pages/readings/bibliography
+  parent: 889e19d4-1934-1e45-05fb-4053a231c40b
+  weight: 40
+- identifier: 9e0b03e1-6583-a583-6d8f-3732072425cc
+  name: Instructional Videos
+  pageRef: /pages/instructional-videos
+  weight: 50
+- identifier: db4114e6-58df-9dbb-0a13-a29b18ce2e08
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: a58501a8-a42e-2500-001b-4d6c54936a1b
+  name: Additional Resources
+  pageRef: /pages/additional-resources
+  weight: 70
