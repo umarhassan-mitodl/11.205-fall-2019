@@ -223,7 +223,7 @@ Geocoding and Address Finding - Beginning Raster Decision Making:
 *   Geocoding Datasets
 *   Common Errors and Problems
 
-Guest lecture: Tim Reardon, [MAPC](https://www.mapc.org/)
+Guest lecture: Tim Reardon, {{% resource_link "3ae93484-2fde-41b1-a2a3-b5aed6483527" "MAPC" %}}
 
 
 {{< tdclose >}}
