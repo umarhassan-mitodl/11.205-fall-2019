@@ -5,6 +5,8 @@ description: A brief video-only clip demonstrating how to select by location in 
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/259446e62e862daf5666626910138845_MIT11_205F19_select_by_location.mp4
 file_size: 7105643
 file_type: video/mp4
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

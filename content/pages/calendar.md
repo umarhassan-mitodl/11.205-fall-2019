@@ -2,6 +2,8 @@
 content_type: page
 description: A week-by-week listing of lecture topics, readings, and assignments for
   11.205
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -223,7 +225,7 @@ Geocoding and Address Finding - Beginning Raster Decision Making:
 *   Geocoding Datasets
 *   Common Errors and Problems
 
-Guest lecture: Tim Reardon, {{% resource_link "3ae93484-2fde-41b1-a2a3-b5aed6483527" "MAPC" %}}
+Guest lecture: Tim Reardon, [MAPC](https://www.mapc.org/)
 
 
 {{< tdclose >}}

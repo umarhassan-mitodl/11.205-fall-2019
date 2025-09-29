@@ -5,6 +5,8 @@ description: A brief video-only clip demonstrating the "add field" operation in 
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/85cbb894b95715a46b6ec726b82a507c_MIT11_205F19_dissolve.mp4
 file_size: 571444
 file_type: video/mp4
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

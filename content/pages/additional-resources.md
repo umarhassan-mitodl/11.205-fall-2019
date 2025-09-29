@@ -10,20 +10,20 @@ uid: a58501a8-a42e-2500-001b-4d6c54936a1b
 ---
 ## Additional Resources:
 
-{{% resource_link "78425958-3596-4f11-afdf-a21926d3360b" "Cambridge CityViewer" %}}
+[Cambridge CityViewer](https://www.cambridgema.gov/GIS/interactivemaps/Cambridgecityviewer.aspx)
 
-{{% resource_link "3046f657-ce13-481b-874a-c95c389e9a9e" "Census Data Visualization Gallery" %}}
+[Census Data Visualization Gallery](https://www.census.gov/dataviz/)
 
-{{% resource_link "0d546d01-4832-4a3a-b0a1-211cc2dec8f2" "Community Data Portal" %}}, Pratt Center for Community Development
+[Community Data Portal](https://mail.prattcenter.net/neighborhood-data-portal), Pratt Center for Community Development
 
-{{% resource_link "906e2c45-1354-445e-b22e-e6b57853d8ad" "DUSPviz – Intro to HTML and CSS" %}}
+[DUSPviz – Intro to HTML and CSS](http://duspviz.mit.edu/web-map-workshop/code-your-first-website/)
 
-{{% resource_link "d207f4a7-40e0-45bf-83bf-638c7d6e2af5" "DUSPviz – Portfolios with a Bootstrap Template" %}}
+[DUSPviz – Portfolios with a Bootstrap Template](http://duspviz.mit.edu/web-map-workshop/bootstrap-templates/)
 
-{{% resource_link "da35590d-c58b-45e8-9238-8dc630ec4ad4" "DUSPviz - Tutorials" %}}
+[DUSPviz - Tutorials](http://duspviz.mit.edu/tutorials/)
 
-{{% resource_link "b5acec7d-f8fb-4325-b01d-5b7f7c3f28b1" "Fault Lines Web Map" %}}
+[Fault Lines Web Map](http://viz.edbuild.org/maps/2016/fault-lines/)
 
-{{% resource_link "a8f953a6-1331-4590-a673-73e77352c896" "Municipal Art Society: Accidental Skyline Tool" %}}
+[Municipal Art Society: Accidental Skyline Tool](http://www.mas.org/urbanplanning/accidental-skyline/)
 
-{{% resource_link "f6241074-1161-44c4-9a5f-14a56ac78ff1" "OASIS Map" %}}
+[OASIS Map](http://www.oasisnyc.net/map.aspx)

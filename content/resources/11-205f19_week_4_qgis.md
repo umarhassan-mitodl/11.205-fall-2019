@@ -5,6 +5,8 @@ description: The in-class QGIS exercise for week 4 in 11.205 Introduction to Spa
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/2a276465a3c9808e6cc6a4774182fc21_11.205f19_week_4_qgis.pdf
 file_size: 2467058
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
