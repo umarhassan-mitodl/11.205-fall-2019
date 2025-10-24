@@ -5,8 +5,6 @@ description: An optional second part to the in-class ArcGIS exercise for week 2 
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/7de26b934ff47fcda169e8ca7ad32b1c_11.205f19_week_2_arc_part2.pdf
 file_size: 903290
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

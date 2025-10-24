@@ -5,8 +5,6 @@ description: A brief video-only clip demonstrating the "union" operation in ArcG
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/a2892d9f16afda3395af6d94f9bc23b3_MIT11_205F19_union.mp4
 file_size: 7421621
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

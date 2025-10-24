@@ -5,8 +5,6 @@ description: The first part of the in-class ArcGIS exercise for week 3 in 11.205
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/ad8aeb9dfde0e5e707a07e5d9bfbd885_11.205f19_week_3_arc_part1.pdf
 file_size: 2200134
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

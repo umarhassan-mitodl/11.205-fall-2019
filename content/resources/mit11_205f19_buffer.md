@@ -5,8 +5,6 @@ description: A brief video-only clip demonstrating the "buffer" operation in Arc
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/6d5ffbbc82de405708a26ee679a360ca_MIT11_205F19_buffer.mp4
 file_size: 4298674
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

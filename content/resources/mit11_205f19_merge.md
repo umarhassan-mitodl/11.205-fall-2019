@@ -5,8 +5,6 @@ description: A brief video-only clip demonstrating the "merge" operation in ArcG
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/adb56ed66b1918df9021d0cde9601f2f_MIT11_205F19_merge.mp4
 file_size: 1734609
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

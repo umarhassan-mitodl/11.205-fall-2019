@@ -5,8 +5,6 @@ description: A brief video-only clip demonstrating the "append" operation in Arc
 file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/784877a5a09c12151b7eb4250558a752_MIT11_205F19_append.mp4
 file_size: 1833454
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
